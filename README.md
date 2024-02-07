@@ -14,7 +14,6 @@ This project automates the provisioning of infrastructure on AWS using Terraform
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
