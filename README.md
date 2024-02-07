@@ -54,3 +54,22 @@ Before setting up and using this project, ensure you have the following prerequi
 5. **Deploy to AKS**: 
 - Update Kubernetes deployment files in kubernetes/ directory as per your application requirements.
 - Deploy the application to AKS.
+
+
+Usage
+
+1. **Code Development**
+- Develop your application code and push changes to the repository.
+
+2. **Continuous Integration**
+- Jenkins will automatically trigger builds upon code changes
+  
+3. **Code Analysis**
+- SonarQube will analyze the code for quality and security issues**
+
+4. **Deployment**
+- Upon successful code analysis, Jenkins will deploy the application to the AKS Kubernetes cluster
+
+5. **Notifications**
+- Slack will provide notifications regarding build status and deployment updates.
+
