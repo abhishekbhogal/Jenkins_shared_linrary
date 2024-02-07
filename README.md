@@ -42,7 +42,7 @@ Before setting up and using this project, ensure you have the following prerequi
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/yourusername/your-project.git](https://github.com/abhishekbhogal/Jenkins_shared_linrary.git
 
 2. **Configure Terraform**: 
 - Navigate to the terraform/ directory.
