@@ -56,7 +56,7 @@ Before setting up and using this project, ensure you have the following prerequi
 - Deploy the application to AKS.
 
 
-Usage
+## Usage
 
 1. **Code Development**
 - Develop your application code and push changes to the repository.
