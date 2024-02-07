@@ -73,3 +73,8 @@ Before setting up and using this project, ensure you have the following prerequi
 5. **Notifications**
 - Slack will provide notifications regarding build status and deployment updates.
 
+## Contributing
+
+**Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please submit a pull request or open an issue.**
+
+
